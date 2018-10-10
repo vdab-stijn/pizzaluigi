@@ -1,0 +1,1 @@
+INSERT INTO pizzas(name,price,spicy) VALUES('testPizza', 10, false);
